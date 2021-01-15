@@ -13,6 +13,9 @@ The plaintext(P) and key(K) are added modulo 26.
 Ei = (Pi + Ki) mod 26
 
 Decryption
+
+The Encryptedtext(E) and key(K) are subtracted modulo 26.
+
 Di = (Ei - Ki + 26) mod 26
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
