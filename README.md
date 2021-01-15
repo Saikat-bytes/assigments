@@ -7,7 +7,9 @@ JavaProgram:-
 Vigenere Cipher is a polyalphabetic substitution cipher. A polyalphabetic substitution cipher is any cipher based on substitution using multitple substitution aplhabet using Vigenère square or table(A Vigenère square is 26X26 table. The table consists of the alphabets written out 26 times in different rows, each alphabet shifted cyclically to the left compared to the previous row.)
 
 Encryption
+
 The plaintext(P) and key(K) are added modulo 26.
+
 Ei = (Pi + Ki) mod 26
 
 Decryption
