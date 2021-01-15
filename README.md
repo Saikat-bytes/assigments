@@ -3,7 +3,7 @@ Assignments
 ------------
 JavaProgram:-
 1) Hello World test file
-2) VigenereCipher: Plaintext to Encryptedtext
+2) VigenereCipher: Plaintext to Encryptedtext::
 Vigenere Cipher is a polyalphabetic substitution cipher. A polyalphabetic substitution cipher is any cipher based on substitution using multitple substitution aplhabet using Vigenère square or table(A Vigenère square is 26X26 table. The table consists of the alphabets written out 26 times in different rows, each alphabet shifted cyclically to the left compared to the previous row.)
 
 Encryption
